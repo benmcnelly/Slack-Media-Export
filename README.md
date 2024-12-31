@@ -1,4 +1,8 @@
 # Slack Media Export
+![License](https://img.shields.io/github/license/benmcnelly/Slack-Media-Export)
+![Last Commit](https://img.shields.io/github/last-commit/benmcnelly/Slack-Media-Export)
+![Contributors](https://img.shields.io/github/contributors/benmcnelly/Slack-Media-Export)
+![Stars](https://img.shields.io/github/stars/benmcnelly/Slack-Media-Export?style=social)
 
 A script for automatically downloading all media files from a Slack export.
 
